@@ -1,3 +1,3 @@
 # RoboFriends
 React application
-45
+47
